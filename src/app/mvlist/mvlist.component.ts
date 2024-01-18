@@ -36,14 +36,17 @@ export class MvlistComponent implements OnInit {
           this.flag=false;
           for (let element of this.startingwithUserInput) {
             
-            if(element.name.charAt(0)==searchMessage[0]){
+            if(element.name.toLowerCase().startsWith(searchMessage.toLowerCase())){
                this.mvList[this.i++]=element; 
                this.flag=true;
             }
            
         }
         if(!this.flag){
-          alert("Matching letter is not Available!")
+          alert("Matching letter is not Available!");
+          this.api.mvmodeLine().subscribe(result=>{
+            this.mvList=result;
+           });
         }
         
          }); 
