@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+.positions {
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+
+  font-family: "Handlee", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.circular--portrait {
+  position: relative;
+  height: 40px;
+  width: 62px;
+  overflow: hidden;
+  border-radius: 50%;
+
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
+
+
+.navbar {
+  background-color: #3498db; 
+}
+
+.navbar-brand img {
+  transition: transform 0.3s ease-in-out; 
+}
+
+.navbar-brand img:hover {
+  transform: scale(1.1);
+}
+
+.nav-item{
+    cursor: pointer;  
+}
+.navbar-nav .nav-link {
+  color: black; 
+  margin: 0 10px;
+  transition: color 0.3s ease-in-out; 
+}
+
+.navbar-nav .nav-link:hover {
+  color: blue;
+}
+
+.form-control {
+  border-radius: 20px; 
+}
+
+.btn-color{
+    color: white; 
+    margin: 0 10px;
+    background-color: #146ef5;
+    transition: color 0.3s ease-in-out;
+}
+
+.btn-color:hover{
+    background-color: blue;
+}
+
+footer .copyright{
+  font-family: "Handlee", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+

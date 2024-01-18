@@ -1,0 +1,13 @@
+
+<div class="container text-center bgclr">
+  <div class="row justify-content-center alin">
+      <div *ngFor="let nd of mvList" class="col-md-4">
+          <div class="card">
+              <div class="card-body">
+                  <h5 class="card-title">{{ nd.name }}</h5>
+                  <a href="{{nd.android_playstore_url}}" target="_blank"><img src="{{nd.logo_100px}}" alt="" class="img-fluid"></a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
