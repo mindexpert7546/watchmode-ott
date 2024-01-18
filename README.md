@@ -1,6 +1,6 @@
 # WatchModeApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+### Website Link 
+https://watchmode-ott.vercel.app/
 
 # Screenshot 
 ## Home Page 
@@ -12,6 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Contact us 
 ![Screenshot 2024-01-18 163730](https://github.com/mindexpert7546/watchmode-ott/assets/89348788/7f023eee-6dea-4939-b6d9-b82c03274be4)
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
