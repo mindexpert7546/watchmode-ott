@@ -10,7 +10,9 @@
     font-style: normal;
 }
 
-
+.container{
+  margin: 0px auto;
+}
 .row {
     margin-bottom: 20px;
 }
