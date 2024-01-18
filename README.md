@@ -1,6 +1,6 @@
 # WatchModeApp
 ### Website Link 
-https://watchmode-ott.vercel.app/
+https://watchmodeott.vercel.app/
 
 # Screenshot 
 ## Home Page 
