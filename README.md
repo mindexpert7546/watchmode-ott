@@ -4,14 +4,13 @@ https://watchmodeott.vercel.app/
 
 # Screenshot 
 ## Home Page 
-![Screenshot 2024-01-18 164041](https://github.com/mindexpert7546/watchmode-ott/assets/89348788/ca6247f0-0a4e-4b2b-a62a-28bb7abc7a83)
+![Screenshot 2024-01-18 182157](https://github.com/mindexpert7546/watchmode-ott/assets/89348788/5fc2b543-7dd5-4400-bad8-5a1a67cc57a0)
 
 ## About 
-![Screenshot 2024-01-18 163718](https://github.com/mindexpert7546/watchmode-ott/assets/89348788/61e56d2e-842f-4d2c-9ded-51acc0375020)
+![Screenshot 2024-01-18 182211](https://github.com/mindexpert7546/watchmode-ott/assets/89348788/13a5f011-9ab5-4e03-85bb-656500ca244f)
 
 ## Contact us 
-![Screenshot 2024-01-18 163730](https://github.com/mindexpert7546/watchmode-ott/assets/89348788/7f023eee-6dea-4939-b6d9-b82c03274be4)
-
+![Screenshot 2024-01-18 182421](https://github.com/mindexpert7546/watchmode-ott/assets/89348788/fdd3fac4-cb8f-4ed4-9005-cb2c3db85eb1)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 ## Development server
 
