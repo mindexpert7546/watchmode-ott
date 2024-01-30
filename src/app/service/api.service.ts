@@ -9,7 +9,7 @@ export class ApiService {
 
   constructor(private _http:HttpClient) { }
 
-  apiurl = 'https://api.watchmode.com/v1/sources/?apiKey=InD1jkxZ5YhlNxPXjQDhAGzagXojsHXrWjWODaNd'
+  apiurl = 'https://api.watchmode.com/v1/sources/?apiKey=Atta9f77i0HMWURhwSaeGEWJ0Hp8Nt5faVFRQuKy '
   mvmodeLine():Observable<any>{
     return this._http.get(this.apiurl);
      
