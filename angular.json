@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "WatchModeApp:build:production"
+              "buildTarget": "WatchModeApp:build:production"
             },
             "development": {
-              "browserTarget": "WatchModeApp:build:development"
+              "buildTarget": "WatchModeApp:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -71,7 +71,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "WatchModeApp:build"
+            "buildTarget": "WatchModeApp:build"
           }
         },
         "test": {
