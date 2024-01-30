@@ -13,6 +13,13 @@ import { AboutComponent } from './about/about.component';
 import { ContactusComponent } from './contactus/contactus.component';
 import { TodoTaskComponent } from './todo-task/todo-task.component';
 
+import { CardModule } from 'primeng/card';
+import { TableModule } from 'primeng/table';
+import { CheckboxModule } from 'primeng/checkbox';
+import { ButtonModule } from 'primeng/button';
+import { InputTextModule } from 'primeng/inputtext';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,7 +32,12 @@ import { TodoTaskComponent } from './todo-task/todo-task.component';
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    FormsModule
+    CardModule,
+    TableModule,
+    CheckboxModule,
+    FormsModule,
+    ButtonModule,
+    InputTextModule,
    
     
   ],
