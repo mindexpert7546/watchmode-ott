@@ -11,13 +11,15 @@ import { FormsModule } from '@angular/forms';
 import { MvlistComponent } from './mvlist/mvlist.component';
 import { AboutComponent } from './about/about.component';
 import { ContactusComponent } from './contactus/contactus.component';
+import { TodoTaskComponent } from './todo-task/todo-task.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MvlistComponent,
     AboutComponent,
-    ContactusComponent
+    ContactusComponent,
+    TodoTaskComponent
   ],
   imports: [
     BrowserModule,
